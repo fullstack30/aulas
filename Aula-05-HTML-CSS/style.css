@@ -1,0 +1,7 @@
+label {
+    display: block;
+    background-color: red;
+}
+input:last-child {
+    background-color: blue;
+}
