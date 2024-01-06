@@ -1,0 +1,15 @@
+### Tópicos da aula 03
+- Metodologia ágil e levantamento de requisito
+- SCRUM
+- Stakeholders
+- Product Owner
+- Developers
+- Scrum Master
+- Product Backlog
+- Sprint Backlog
+- Entrega
+- Sprint Planning
+- Sprint
+- Daily scrum
+- Sprint review
+- Sprint Retrospective
