@@ -6,3 +6,4 @@
 - Executando funções
 - Executando funções com argumentos
 - Usando console.log()
+- Introdução ao tipo `Array`
